@@ -1,0 +1,2 @@
+add ssome text to the gti file
+lets add some more text for the prctice
