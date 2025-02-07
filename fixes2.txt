@@ -1,1 +1,10 @@
-another bug in bug-fix
+add some text for testing the bugs
+add another test for the bug
+
+third bug in the row to solve
+
+fourth bug
+fifth bug
+sixth bug
+seventh bug
+another bug to fix in the bug-fix section
