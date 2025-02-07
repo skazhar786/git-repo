@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 add some text for testing the bugs
 add another test for the bug
 
@@ -7,3 +8,6 @@ fourth bug
 fifth bug
 sixth bug
 seventh bug
+=======
+another bug in bug-fix
+>>>>>>> bug-fix
