@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 add some text for testing the bugs
 add another test for the bug
 
