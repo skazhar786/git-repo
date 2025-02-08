@@ -1,1 +1,3 @@
 fixing bugs to keep the file clean and bug free
+
+add pinkmode fixe here 
