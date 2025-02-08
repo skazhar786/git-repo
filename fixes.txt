@@ -3,3 +3,4 @@ fixing bugs to keep the file clean and bug free
 add pinkmode fixe here 
 
 add purplemoede here for the testing
+adding more text for the testing purpose
