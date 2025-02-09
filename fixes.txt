@@ -4,3 +4,5 @@ add pinkmode fixe here
 
 add purplemoede here for the testing
 adding more text for the testing purpose
+
+add spme testing for the bug fix purpose
